@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["empty"],{"2c1e":function(e,t,n){"use strict";n.r(t);var c=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"empty"},[n("h1",[e._v("Cette page arrive très prochainement !")])])}],a={name:"Empty",components:{},beforeCreate:function(){this.$parent.checkConnected()}},s=a,i=n("2877"),o=Object(i["a"])(s,c,r,!1,null,null,null);t["default"]=o.exports}}]);
+//# sourceMappingURL=empty.298c71a2.js.map
